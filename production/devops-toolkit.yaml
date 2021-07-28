@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: kustomize/overlays/production
-    repoURL: https://github.com/vfarcic/devspace-vcluster-argocd-demo
+    repoURL: https://github.com/devopsparadox/devspace-vcluster-argocd-demo
     targetRevision: HEAD
     kustomize:
       images:
