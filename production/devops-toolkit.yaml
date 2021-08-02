@@ -13,7 +13,7 @@ spec:
     targetRevision: HEAD
     kustomize:
       images:
-      - vfarcic/devops-toolkit:3a881f8f45cd3c9c0f9e27eba521e57c1cdca27f
+      - vfarcic/devops-toolkit:3d6a70881b787575d65b5e0d278cefefc05caeec
   destination:
     namespace: production
     server: https://kubernetes.default.svc
